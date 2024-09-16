@@ -1,8 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Python API Basics
+description: Tutorial to create a simple API using Python and FastAPI
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://pschonev.github.io/python-api-basics
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+color_scheme: dark
+
+aux_links: # remove if you don't want this link to appear on your pages
+  Template Repository: https://github.com/pschonev/python-api-basics
